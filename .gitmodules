@@ -1,0 +1,3 @@
+[submodule "source/3rdPartyLibs/assimp"]
+	path = source/3rdPartyLibs/assimp
+	url = https://github.com/assimp/assimp.git
